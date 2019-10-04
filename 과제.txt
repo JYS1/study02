@@ -1,0 +1,4 @@
+ 성적처리 Web Application 작성
+* HTML/CSS/JavaScript 활용
+이름 / 과목 1,2,3 입력
+성적 일람표  입력순/ 평균순

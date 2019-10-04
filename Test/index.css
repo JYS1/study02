@@ -1,0 +1,16 @@
+.main {
+    text-align: center;
+}
+
+.main input{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+#name {
+    margin-left: 66px;
+}
+#a {
+    width: 176px;
+    margin-top: 20px;
+}
